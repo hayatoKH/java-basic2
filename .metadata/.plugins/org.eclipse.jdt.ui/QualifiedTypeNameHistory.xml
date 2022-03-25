@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="kr.co.ict.boardDAO"/>
+    <fullyQualifiedTypeName name="kr.co.ict.boardVO"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServletResponse"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
+    <fullyQualifiedTypeName name="kr.co.ict.servlet.service.BoardListService"/>
+    <fullyQualifiedTypeName name="com.mysql.cj.jdbc.ha.BestResponseTimeBalanceStrategy"/>
+    <fullyQualifiedTypeName name="kr.co.ict.servlet.service.BoardDetailService"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+    <fullyQualifiedTypeName name="kr.co.ict.servlet.service.IBoardService"/>
+    <fullyQualifiedTypeName name="kr.co.ict.servlet.service.BoardInsertFormService"/>
+    <fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="javax.servlet.ServletException"/>
+</qualifiedTypeNameHistroy>
